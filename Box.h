@@ -9,6 +9,7 @@ typedef struct box
     int width;
     int height;
 } _box;
+
 int get_volume(_box v);
 int max_height(_box lower);
 
