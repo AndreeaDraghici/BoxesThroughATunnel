@@ -22,7 +22,7 @@ Constraints:
 
 Output Format:
 
-For every box from the input which has a height lesser than  feet, print its volume in a separate line.
+For every box from the input which has a height lesser than 41 feet, print its volume in a separate line.
 
 
 Sample Input:
