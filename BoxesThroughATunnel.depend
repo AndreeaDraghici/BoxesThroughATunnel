@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1617744736 source:c:\users\user\documents\github\boxesthroughatunnel\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Box.h"
+
+1617744736 c:\users\user\documents\github\boxesthroughatunnel\box.h
+
