@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include"Box.h"
 #include"Box.c"
-#define MAX_HEIGHT 41
+
 //@author:AndreeaDraghici
 
 int main()
